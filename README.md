@@ -1,6 +1,6 @@
 # CoderbyteProject
 
-Project Description:
+## Project Description:
 Requirements
 At least the following flow should be implemented:
 
@@ -16,7 +16,7 @@ Based on your work, another engineer should be able to implement the user interf
 
 You can simplify some complex real world problems if you think it's not worth illustrating in the project.
 
-Message from creator:
+## Message from creator:
 I was not completely sure on the directions of the project but I did my best to fulfill the requirements. 
 
 The program first asks the user to insert their card (enter a card number). Then the user is prompted to enter a PIN. If the user gives an incorrect PIN three times in a row, then their account is locked. Upon successful entry of their PIN number, the user can select which bank account to access: checkings or savings. After selection, their current balance is shown and they can then withdraw or deposit money. The program ensures that the user cannot withdraw more money than they have in their account. At any point, the user can go back a "page" or logout. The program can run forever, but a '-1' for a card input will cause the program to stop running.
