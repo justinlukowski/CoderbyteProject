@@ -1,5 +1,4 @@
 # CoderbyteProject
-Coderbyte Project
 
 Project Description:
 Requirements
